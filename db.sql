@@ -1,5 +1,5 @@
 
-create database node-assign;
+create database node_assign;
 
 create table user
 (
